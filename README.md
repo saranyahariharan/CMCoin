@@ -1,0 +1,2 @@
+# CMCoin
+Test assignment
